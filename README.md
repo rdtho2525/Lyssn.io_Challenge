@@ -2,6 +2,8 @@
 
 
 ## Overview:
+This code challenge is
+ part of Reggie Thompson's application for the Front End Devloper position with Lyssn.io, Inc.
 
 
 ## Created by:
@@ -13,8 +15,8 @@
 * [GitHub Project Board](https://github.com/rdtho2525/Lyssn.io_Challenge/projects/1?add_cards_query=is%3Aopen)
 
 ### Wireframe
-
-![wireframe](![image](https://user-images.githubusercontent.com/70557704/126532691-1301e0f4-ee7c-4b17-9fc3-9ccfd3cc68cb.png))
+![Screen Shot 2021-06-24 at 10 37 12 AM](https://user-images.githubusercontent.com/70557704/126533080-ec9078a2-9979-4bb9-b1d1-16e1b2243f9f.png)
+<!-- ![wireframe](![image](https://user-images.githubusercontent.com/70557704/126532691-1301e0f4-ee7c-4b17-9fc3-9ccfd3cc68cb.png)) -->
 
 
 ## Technologies
