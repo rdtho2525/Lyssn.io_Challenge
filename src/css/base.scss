@@ -38,3 +38,12 @@ main {
 .therapist-name:hover {
   background-color: hsla(0, 0%, 50%, .3);
 }
+
+@media only screen and (max-width: 300px){
+	.main-section {
+    padding: 0px 10px;
+  }
+  .center-box {
+    width: 240px;
+  }
+}
