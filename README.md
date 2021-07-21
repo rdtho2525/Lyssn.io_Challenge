@@ -10,11 +10,11 @@
 
 ## Planning Resources
 
-* [GitHub Project Board]()
+* [GitHub Project Board](https://github.com/rdtho2525/Lyssn.io_Challenge/projects/1?add_cards_query=is%3Aopen)
 
 ### Wireframe
 
-![wireframe]()
+![wireframe](![image](https://user-images.githubusercontent.com/70557704/126532691-1301e0f4-ee7c-4b17-9fc3-9ccfd3cc68cb.png))
 
 
 ## Technologies
