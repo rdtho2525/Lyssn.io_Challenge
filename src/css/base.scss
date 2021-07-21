@@ -1,9 +1,4 @@
-/* This is an example of using Sass, otherwise plain CSS works too*/
-$primary-background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
-;
-
 * {
-  // border: 1px solid red;
   margin: 0;
   padding: 0;
 }
@@ -30,12 +25,12 @@ main {
   box-shadow: 2px 2px 5px 1px rgba(0, 0, 0, 0.2);
 }
 
-.therapist-name {
+.user-name {
   padding: 10px 5px;
   list-style-type: none;
 }
 
-.therapist-name:hover {
+.user-name:hover {
   background-color: hsla(0, 0%, 50%, .3);
 }
 
