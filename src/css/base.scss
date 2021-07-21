@@ -2,6 +2,17 @@
 $primary-background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
 ;
 
+* {
+  border: 1px solid red;
+  margin: 0;
+  padding: 0;
+}
+
 body {
-  background: $primary-background;
+  // background: $primary-background;
+}
+
+.center-box {
+  height: 500px;
+  width: 500px;
 }
