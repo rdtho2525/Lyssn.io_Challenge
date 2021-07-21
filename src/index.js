@@ -1,4 +1,4 @@
-const users = require('../src/data.json');
+const users = require('./data.json');
 
 const usersList = document.getElementById('usersList');
 
