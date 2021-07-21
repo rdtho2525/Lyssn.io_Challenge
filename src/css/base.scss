@@ -21,8 +21,17 @@ main {
 }
 
 .center-box {
-  height: 30%;
-  width: 35%;
+  width: 25%;
   display: flex;
   flex-direction: column;
+  padding: 10px;
+}
+
+.therapist-name {
+  padding: 10px 5px;
+  list-style-type: none;
+}
+
+.therapist-name:hover {
+  background-color: hsla(0, 0%, 50%, .3);
 }
