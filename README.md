@@ -4,7 +4,7 @@
 ## Overview:
 This code challenge is part of Reggie Thompson's application for the Front End Devloper position with Lyssn.io, Inc.
 
-View the deployed site _[here]_(https://lyssn-tech-challenge-rdt.herokuapp.com/)
+View the deployed site _[here](https://lyssn-tech-challenge-rdt.herokuapp.com/)_
 
 ## Created by:
 - [Reggie Thompson](https://github.com/rdtho2525) | [LinkedIn](https://www.linkedin.com/in/reggie-thompson-136979137/)
