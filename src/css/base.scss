@@ -1,7 +1,45 @@
-/* This is an example of using Sass, otherwise plain CSS works too*/
-$primary-background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
-;
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
 
-body {
-  background: $primary-background;
+html,
+body,
+main {
+  height: 100%;
+}
+
+.main-section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: hsla(204, 83%, 81%, .4);
+}
+
+.center-box {
+  width: 290px;
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  background-color: hsl(0, 100%, 99%);
+  box-shadow: 2px 2px 5px 1px rgba(0, 0, 0, 0.2);
+}
+
+.user-name {
+  padding: 10px 5px;
+  list-style-type: none;
+}
+
+.user-name:hover {
+  background-color: hsla(0, 0%, 50%, .3);
+}
+
+@media only screen and (max-width: 300px){
+	.main-section {
+    padding: 0px 10px;
+  }
+  .center-box {
+    width: 240px;
+  }
 }
